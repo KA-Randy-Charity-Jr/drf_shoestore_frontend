@@ -1,3 +1,5 @@
+BACKEND REPO : https://github.com/KenzieAcademy/django-rest-KA-Randy-Charity-Jr
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
